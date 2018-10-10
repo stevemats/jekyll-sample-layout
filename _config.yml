@@ -1,2 +1,3 @@
 name: K&S G. Companies
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
